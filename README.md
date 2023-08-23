@@ -2,7 +2,7 @@ iCoderBootstrap is a technology related website.The main purpose of this website
 hardware, devops, competitive programming and Data Structures and Algorithms.
 
 The deployed website can be found at : 
-https://diptime.github.io/iCODERbootstrap/
+https://abhishek222747.github.io/iCoder/
 
 I have used HTML, CSS, JavaScript for the frontend part of the website.
 The frontend includes a Home page having navigation bar, options for login & sign-up and about and contact us pages.
